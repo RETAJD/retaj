@@ -7,18 +7,7 @@ Cześć, nazywam się Marcin Retajczyk studiuję Informatykę i systemy intelige
 ```markdown
 
 
-# Header 1
-## Header 2
+
 ### Header 3
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-
-
-### Jekyll Themes
-
-
-### Support or Contact
 
