@@ -2,12 +2,12 @@
 
 Cześć, nazywam się Marcin Retajczyk studiuję Informatykę i systemy inteligentne na AGH.
 
-### Markdown
+### Coś do napisania
 
-```markdown
+```cześć wszystkim :)
 
 
 
-### Header 3
+### tutaj też
 
 
