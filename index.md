@@ -1,13 +1,12 @@
 ## HI,
 
-Cześć, nazywam się Marcin Retajczyk studiuję Informatykę i systemy inteligentne na AGH.
+Hi, my name is Marcin Retajczyk, I am studying Computer Science and Intelligent Systems at AGH.
 
-### Coś do napisania
+### About me
 
-```cześć wszystkim :)
+```*Im from north Masovian Voivodeship.
+```*I finished music school.(PIANO)
+```*Favorite football team: FC Barcelona 
 
-
-
-### tutaj też
 
 
